@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 
 st.set_page_config(page_title="Student Platform AI Chatbot", page_icon="🎓")
-st.title("🎓 Student Platform AI Chatbot")
+st.title("Student Platform AI Chatbot")
 st.write("Ask questions about the student platform prototype.")
 
 GROQ_API_KEY = st.secrets["GROQ_API_KEY"]

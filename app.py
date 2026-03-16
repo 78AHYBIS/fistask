@@ -161,7 +161,7 @@ with st.sidebar:
 
 st.markdown("""
 <div class="hero-box">
-    <div class="hero-title">🎓 Student Platform AI Assistant</div>
+    <div class="hero-title"> Student Platform AI Assistant</div>
     <div class="hero-subtitle">
         A smarter support experience for university students: study materials, deadlines, uploads, and platform guidance in one chatbot.
     </div>
